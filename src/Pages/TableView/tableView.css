@@ -1,0 +1,16 @@
+.edit-btn {
+  border-radius: 0px;
+}
+.delete-btn {
+  border-radius: 0px;
+}
+.user-table .ant-table {
+  width: 1100px;
+  border-radius: 0px;
+}
+.profile_pic {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  border-radius: 50%;
+}

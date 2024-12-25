@@ -1,0 +1,16 @@
+
+.login-container{
+    background-color: white;
+    width: 450px;
+    height: 320px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    margin-top: 120px;
+    position: relative;
+}
+.login-form{
+    width: 350px;
+    position: sticky;
+}

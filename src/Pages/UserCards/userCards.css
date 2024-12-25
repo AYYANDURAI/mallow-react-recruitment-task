@@ -1,0 +1,12 @@
+:where(.css-dev-only-do-not-override-1kf000u).ant-pagination {
+    justify-content: center;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+.user-cards{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); 
+    gap: 30px; 
+    padding-top: 20px;
+}

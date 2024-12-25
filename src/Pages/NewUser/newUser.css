@@ -1,0 +1,42 @@
+.new-user-container {
+  background-color: white;
+  max-width: 580px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+}
+.new-user-form {
+  width: 350px;
+}
+.modalStyle .ant-modal-content {
+  padding: 0px;
+}
+.modalStyle .ant-modal-title {
+  padding-left: 20px;
+  padding-top: 20px;
+}
+.modalStyle .ant-modal-header {
+  border-bottom: 1px solid lightgray;
+  padding-bottom: 20px;
+}
+.modalStyle .ant-modal-footer {
+  padding: 30px 30px;
+}
+.modalStyle #CreateNewUser_email {
+  border-radius: 0px;
+}
+.modalStyle #CreateNewUser_firstName {
+  border-radius: 0px;
+}
+.modalStyle #CreateNewUser_lastName {
+  border-radius: 0px;
+}
+.modalStyle #CreateNewUser_imageLink {
+  border-radius: 0px;
+}
+.btn-container{
+  display: flex;
+  justify-content: flex-end;
+}

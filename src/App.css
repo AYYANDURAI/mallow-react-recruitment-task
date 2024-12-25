@@ -1,0 +1,11 @@
+.App {
+  background-color: lightgray;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  overflow: hidden;
+  overflow-y: auto; 
+}
+

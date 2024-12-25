@@ -1,0 +1,25 @@
+.header{
+    background-color: black;
+    width: 100vw;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.header-right{
+    display: flex;
+    align-items: center;
+    padding-right: 50px;
+    gap: 20px;
+}
+.power-icon{
+    transform: rotate(90deg); 
+    width: 25px;
+    height: 25px;
+    object-fit: contain;
+    cursor: pointer;
+}
+.user-name{
+    color: white;
+    font-weight: 600;
+}
